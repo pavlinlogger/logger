@@ -3,8 +3,8 @@ from flask import Flask, request, jsonify, render_template_string
 import telebot
 from telebot import types
 
-BOT_TOKEN = "" # Токен бота
-ADMIN_ID = 8051246224
+BOT_TOKEN = "8775628623:AAHYbVScUdw4GxeDOF5KNtVqbB0SVwI2pkI" # Токен бота
+ADMIN_ID = 5896627507
 REPL_URL = "https://e9f16f3f-466c-48ec-8c98-5de8a58148ee-00-3sbpql6wwnhg7.sisko.replit.dev/" # URL 
 VALID_KEY = "pri9vateclutch8fjfkcnc133" # Ключ доступа
 
